@@ -33,7 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galgje", "Galgje\Galgje.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auto oef klasses", "Auto oef klasses\Auto oef klasses.csproj", "{0751C1EA-532B-4516-8A4C-830640D41E05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ondernemingsnummer", "Ondernemingsnummer\Ondernemingsnummer.csproj", "{34B0AF32-E787-493A-8EDC-B1FD58C42E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ondernemingsnummer", "Ondernemingsnummer\Ondernemingsnummer.csproj", "{34B0AF32-E787-493A-8EDC-B1FD58C42E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Determinant", "Determinant\Determinant.csproj", "{5ACEC647-8A4F-4D84-8502-DAD619753019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D Array Viewer", "2D Array Viewer\2D Array Viewer.csproj", "{B98EF067-8E7D-4029-89EB-B37DE26F3D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grote Som", "Grote Som\Grote Som.csproj", "{8FA1C45B-8170-4E6F-B3A7-99877C65C3EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{34B0AF32-E787-493A-8EDC-B1FD58C42E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B0AF32-E787-493A-8EDC-B1FD58C42E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B0AF32-E787-493A-8EDC-B1FD58C42E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACEC647-8A4F-4D84-8502-DAD619753019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACEC647-8A4F-4D84-8502-DAD619753019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACEC647-8A4F-4D84-8502-DAD619753019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACEC647-8A4F-4D84-8502-DAD619753019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98EF067-8E7D-4029-89EB-B37DE26F3D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98EF067-8E7D-4029-89EB-B37DE26F3D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98EF067-8E7D-4029-89EB-B37DE26F3D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98EF067-8E7D-4029-89EB-B37DE26F3D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA1C45B-8170-4E6F-B3A7-99877C65C3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA1C45B-8170-4E6F-B3A7-99877C65C3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA1C45B-8170-4E6F-B3A7-99877C65C3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA1C45B-8170-4E6F-B3A7-99877C65C3EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
